@@ -7,8 +7,8 @@
 
 <h2>📺 Certifications</h2>
 
-- [Google Cybersecurity
-- [Google Technical Support
+- Google Cybersecurity
+- Google Technical Support
 
 
 <h2> 🤳 Connect with me:</h2>
